@@ -1,5 +1,5 @@
 # Fortnite-Working-Aimbot
-Simple AI Based Aimbot Updated and working 2025. Source code included.
+Simple AI Based Aimbot Updated and Working 2025. Source code included.
 ---
 # Download:
 ---
